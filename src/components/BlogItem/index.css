@@ -1,0 +1,33 @@
+.titleCard {
+  display: flex;
+  justify-content: space-between;
+}
+
+li {
+  width: 90%;
+  list-style: none;
+  padding: 0.5% 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  font-size: 2vw;
+  color: #12022f;
+}
+
+.date {
+  font-size: 1.7vw;
+  color: #9aa5b1;
+}
+
+.details {
+  font-size: 1.3vw;
+  color: #9aa5b1;
+}
+
+hr {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}

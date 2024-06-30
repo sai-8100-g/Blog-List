@@ -1,0 +1,19 @@
+.blogItemsUl {
+  width: 100%;
+  padding: 0px;
+}
+
+.blogListCard {
+  width: 100%;
+}
+
+.profileCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profileCard > img {
+  width: 30%;
+}
